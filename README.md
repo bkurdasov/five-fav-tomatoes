@@ -1,0 +1,1 @@
+A scraper to retrieve list of 'five favourite films' articles from rottentomatoes. It utilizes *requests* and *lxml*.
